@@ -20,6 +20,7 @@ import {
   ActivityIndicator,
   FlatList,
 } from 'react-native';
+import filter from 'lodash.filter';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 
